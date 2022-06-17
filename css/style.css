@@ -23,12 +23,13 @@ h1 {
 .disclaimer {
     font-size: 1.2rem;
     color: #02422B;
+    background-color: #BEFCC8;
     padding-left: 1rem;
     padding-right: 1rem;
     padding-top: 1rem;
     padding-bottom: 1rem;
     text-align: center;
-    border: 1px solid #02422B;
+    border: 1px solid #BEFCC8;
     border-radius: 10px;
 }
 .main-cluster {
