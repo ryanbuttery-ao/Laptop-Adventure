@@ -1,0 +1,70 @@
+* {
+    font-family: "SmileyFace", "Mier B", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+    background-color: #2a12c3;
+    border: 1px solid #ffffff;
+    border-radius: 10px;
+    padding: 1rem;
+
+}
+
+p {
+    font-size: 1.2rem;
+    color: #100752;
+}
+
+h1 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+h2 {
+    color: #100752;
+}
+
+.disclaimer {
+    font-size: 1.2rem;
+    color: #100752;
+    background-color: #c1befc;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    border: 1px solid #c1befc;
+    border-radius: 10px;
+}
+
+.main-cluster {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.countup {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.countup .timeel {
+    display: inline-block;
+    padding: 10px;
+    background: #2a12c3;
+    margin: 0;
+    color: white;
+    min-width: 2.6rem;
+    margin-left: 13px;
+    border-radius: 10px 0 0 10px;
+}
+
+.countup span[class*="timeRef"] {
+    border-radius: 0 10px 10px 0;
+    margin-left: 0;
+    background: #100752;
+    color: #c1befc;
+}
